@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xT0RmGTyNk7PmU36Nh5fLqOS+ELhv/pkYOsGX4GKNCEz7U7Wgh1bB3GgoNzHc6FSe1/EGSumHVuHd+LsdBMU5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bidzi\\source\\repos\\naumlab1\\naumlab1\\naumlab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bidzi\\.nuget\\packages\\coreclr-ncalc\\2.2.110\\coreclr-ncalc.2.2.110.nupkg.sha512"
+  ],
+  "logs": []
+}

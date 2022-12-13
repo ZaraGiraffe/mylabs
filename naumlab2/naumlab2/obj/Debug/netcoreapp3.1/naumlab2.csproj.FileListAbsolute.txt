@@ -1,0 +1,16 @@
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\bin\Debug\netcoreapp3.1\naumlab2.exe
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\bin\Debug\netcoreapp3.1\naumlab2.deps.json
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\bin\Debug\netcoreapp3.1\naumlab2.runtimeconfig.json
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\bin\Debug\netcoreapp3.1\naumlab2.runtimeconfig.dev.json
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\bin\Debug\netcoreapp3.1\naumlab2.dll
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\bin\Debug\netcoreapp3.1\naumlab2.pdb
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\obj\Debug\netcoreapp3.1\naumlab2.csproj.AssemblyReference.cache
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\obj\Debug\netcoreapp3.1\naumlab2.Form1.resources
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\obj\Debug\netcoreapp3.1\naumlab2.csproj.GenerateResource.cache
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\obj\Debug\netcoreapp3.1\naumlab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\obj\Debug\netcoreapp3.1\naumlab2.AssemblyInfoInputs.cache
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\obj\Debug\netcoreapp3.1\naumlab2.AssemblyInfo.cs
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\obj\Debug\netcoreapp3.1\naumlab2.csproj.CoreCompileInputs.cache
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\obj\Debug\netcoreapp3.1\naumlab2.dll
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\obj\Debug\netcoreapp3.1\naumlab2.pdb
+C:\Users\bidzi\source\repos\naumlab2\naumlab2\obj\Debug\netcoreapp3.1\naumlab2.genruntimeconfig.cache

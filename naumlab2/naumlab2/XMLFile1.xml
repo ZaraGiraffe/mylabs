@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <resourse
+    name = "1"
+    info="informazia"
+    annotation ="anotazia"
+    type="typ"
+    address="horuva"
+    conditions="sth">
+    <author
+      name="imia"
+      faculty="mechmat"
+      cathedra="chich">
+    </author>
+  </resourse>
+  <resourse
+    name = "2"
+    info="informazia"
+    annotation ="anotazia"
+    type="typ"
+    address="horuva"
+    conditions="sth">
+    <author
+      name="imia"
+      faculty="mechmat"
+      cathedra="chich">
+    </author>
+  </resourse>
+</root>
